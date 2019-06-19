@@ -11,7 +11,7 @@ Please refer to flutter official document [Install](https://flutter.io/docs/get-
 ### Clone repository
 
 ```bash
-git clone git@github.com:missXb/flutter_shop.git && cd flutter_demo
+git clone git@github.com:missXb/flutter_shop.git && cd flutter_shop
 ```
 
 ### Install pub packages
